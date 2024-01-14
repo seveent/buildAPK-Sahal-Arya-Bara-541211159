@@ -1,0 +1,36 @@
+{
+  "expo": {
+    "name": "xii-rpl-5---541211159---sahal-arya-bara---login-register-portofolio",
+    "slug": "snack-cd243736-fb7b-48c0-919c-9815d75e63d1",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "description": "541211159 - Login Register Portofolio\n",
+    "extra": {
+      "eas": {
+        "projectId": "32c07e5d-352c-442a-bfbf-4c1ea6d25379"
+      }
+    }
+  }
+}
